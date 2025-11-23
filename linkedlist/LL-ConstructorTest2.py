@@ -209,16 +209,16 @@ class LinkedList:
     
 
 myList = LinkedList(5)
-myList.append(10)
-myList.append(15)
-myList.append(20)
-myList.append(30)
-myList.append(50)
+# myList.append(10)
+# myList.append(15)
+# myList.append(20)
+# myList.append(30)
+# myList.append(50)
 #myList.tail.next = myList.head
 
 
-#my_linked_list_1 = LinkedList(1)
-#my_linked_list_1.append(2)
+my_linked_list_1 = LinkedList(1)
+my_linked_list_1.append(2)
 #my_linked_list_1.append(3)
 #my_linked_list_1.append(4)
 #my_linked_list_1.tail.next = my_linked_list_1.head
